@@ -24,7 +24,15 @@ Contains components required by all Algorithm::Knapsack modules.
 
 =head1 EXPORT
 
-Does not export anything.
+=head MAXWEIGHT
+
+The maximum value for a weight.
+
+=cut
+
+our $MAXWEIGHT = 2**31;
+
+=pod
 
 =head1 AUTHOR
 
