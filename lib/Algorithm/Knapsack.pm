@@ -3,6 +3,7 @@ package Algorithm::Knapsack;
 use warnings;
 use strict;
 use Math::BigInt;
+use Math::BigFloat;
 
 =head1 NAME
 
