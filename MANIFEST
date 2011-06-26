@@ -1,0 +1,11 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Algorithm/Knapsack.pm
+lib/Algorithm/Knapsack/HS.pm
+lib/Algorithm/Knapsack/Utils.pm
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
