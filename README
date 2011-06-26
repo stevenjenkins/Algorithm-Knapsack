@@ -5,6 +5,10 @@ family.  The initial implementations are all from "Knapsack Problems"
 by Silvano Martello and Paolo Toth, available from
 http://www.or.deis.unibo.it/knapsack.html.
 
+This is Alpha code -- interfaces may change.  Bugs may not get fixed.
+If you are interested in using this code for other than casual,
+exploratory use, please contact the author.
+
 INSTALLATION
 
 To install this module, run the following commands:
